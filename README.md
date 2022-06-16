@@ -1,3 +1,3 @@
 # Segundo Projeto: "Recriando a página inicial do instagram"
 
-Re
+Meu segundo Projeto na Plataforma DIO!
